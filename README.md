@@ -1,6 +1,4 @@
 # hello-world
-
-
 Operating System and Software Versions
 Operating System: - Ubuntu 18.04 Bionic Beaver
 Requirements
